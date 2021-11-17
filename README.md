@@ -1,4 +1,7 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
+# The demo app developed with Hyperledger Fabric
+The voting application developed can be found in the [atcc](atcc) folder.
+It consists of three methods and a main to execute the chaincode.
 
 # Hyperledger Fabric Samples
 
